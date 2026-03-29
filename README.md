@@ -129,10 +129,10 @@ All functional modules were modeled, schematized, and routed as individual PCBs.
 ## Repository Structure
 
 ```text
-├── simulations/          # Cedar Logic simulation files 
+├── simulations/          # Cedar Logic simulation files
+│   ├── full_layout 
 ├── kicad_projects/       # KiCad schematics and PCB layout files
 │   ├── Output_control_unit/
 │   ├── ALU_module/
-│   └── 4x4_Memory_Unit/
-├── hardware_photos/      
+│   └── 4x4_Memory_Unit/     
 └── README.md
