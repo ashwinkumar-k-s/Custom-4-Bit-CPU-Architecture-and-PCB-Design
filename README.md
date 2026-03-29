@@ -106,16 +106,25 @@ All functional modules were modeled, schematized, and routed as individual PCBs.
 <img width="1150" height="1083" alt="image" src="https://github.com/user-attachments/assets/bfd3fe66-0835-46bd-9cb5-679028c6c8a6" />
 <br>
 
+<img width="1090" height="524" alt="image" src="https://github.com/user-attachments/assets/3d923681-9837-4f2f-95d0-f30ad8bfe763" />
+<br>
+
 * PCB Layout of Memory Unit
 <br>
 
 <img width="1245" height="873" alt="image" src="https://github.com/user-attachments/assets/80e93dba-5849-4542-9ae0-1c27dba7ece5" />
 <br>
 
+<img width="1121" height="403" alt="image" src="https://github.com/user-attachments/assets/cce30211-63d3-4231-b995-cf05f184cbe2" />
+<br>
+
 * PCB layout of ALU
 <br>
 
 <img width="1523" height="361" alt="image" src="https://github.com/user-attachments/assets/ff991347-417f-49bf-80a0-c8bce274421f" />
+<br>
+
+<img width="990" height="543" alt="image" src="https://github.com/user-attachments/assets/8088f4dc-6445-4a0c-a571-9efc7385440f" />
 <br>
 
 * PCB layout of Output Control Unit
