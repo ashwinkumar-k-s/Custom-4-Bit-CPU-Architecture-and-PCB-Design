@@ -131,7 +131,7 @@ All functional modules were modeled, schematized, and routed as individual PCBs.
 ```text
 ├── simulations/          # Cedar Logic simulation files 
 ├── kicad_projects/       # KiCad schematics and PCB layout files
-│   ├── Instruction_Memory/
+│   ├── Output_control_unit/
 │   ├── ALU_module/
 │   └── 4x4_Memory_Unit/
 ├── hardware_photos/      
