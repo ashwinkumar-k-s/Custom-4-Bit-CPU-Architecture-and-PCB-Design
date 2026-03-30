@@ -145,3 +145,33 @@ All functional modules were modeled, schematized, and routed as individual PCBs.
 │   ├── ALU_module/
 │   └── 4x4_Memory_Unit/     
 └── README.md
+ ```
+
+
+## Contributors
+
+This 4-bit CPU architecture and PCB design project was collaboratively developed as an assigned group project. 
+
+* **[Adithya Balesh (CB.EN.U4ECE23005)/adithyabalesh]** - *Digital Design and Hardware Verification and PCB*
+  * Instruction Memory and Component Integration and verification.
+  * Hardware Implementation of Output control unit and ALU.
+  * PCB routing and layout arrangement of memory.
+  * Poster and Documentation.
+
+* **[Ashwin Kumar K S (CB.EN.U4ECE23007)/ashwinkumar-k-s]** - *ALU Design and PCB routing,hardware impllementaion*
+  * ALU, Output Control Unit and Datapath design.
+  * Component Selection and Hardware implementation of ALU and Memory data register.
+  * PCB routing, layout, and schematic generation of ALU and Output control Unit 
+  * Documentation and Github Repo Creation.
+  
+* **[Chokkalingam S (CB.EN.U4ECE23012)/-------]** - *Memory Design and hardware impllementaion*
+  * Digital design of 4x4 Memory Unit,  Memory Data Register Design and Pipeline/Interconnects accross all modules.
+  * Hardware implementation and verification of Memory module and Instruction Memory.
+  * PCB schematic of Memory module.
+  * Documentation.
+
+* **[Rohith J (CB.EN.U4ECE23017)/-------]** - *Digital Design and Hardware Verification*
+  * Digital design verification of all components.
+  * Hardware circuit implementation of and Memory Units.
+  * PCB schematic verification and soldering.
+  * Poster, Presentation and Documentation
